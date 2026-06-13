@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 
-About this experiment
+Seattle Angel Ecosystem
 
-Version 3 - Published from Google Docs
+A guide to the Pacific Northwest angel investing community.
 
-This experiment is testing whether Google Docs and Google Sheets can serve as the content management system for a static website.
+Whether you are a founder looking for capital, an investor looking to learn, or an ecosystem builder looking for partners, this site can help you find your next step.
 
-Editors work in Google Docs.
-Site structure lives in Google Sheets.
-GitHub Actions builds and publishes the site.
+For Founders
+For Investors
+Explore Angel Groups
+Events & Recordings
+
 
