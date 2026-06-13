@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-# About this experiment
+About this experiment
 
-Version 2 - June 2026
+Version 3 - Published from Google Docs
 
-This is a simple test website for exploring a future Google Docs + Eleventy + GitHub publishing workflow.
+This experiment is testing whether Google Docs and Google Sheets can serve as the content management system for a static website.
+
+Editors work in Google Docs.
+Site structure lives in Google Sheets.
+GitHub Actions builds and publishes the site.
+
