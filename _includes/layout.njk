@@ -7,8 +7,9 @@
 </head>
 <body>
   <nav>
-    <a href="/">Home</a>
-    <a href="/about/">About</a>
+  {% for item in navigation %}
+    <a href="{{ item.url }}">{{ item.title }}</a>
+  {% endfor %}
   </nav>
 
   <main>
