@@ -2,7 +2,7 @@
   {
     "title": "Home",
     "key": "Home",
-    "url": "/home/",
+    "url": "/",
     "order": 10,
     "children": []
   },
