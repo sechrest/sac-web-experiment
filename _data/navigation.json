@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Home",
+    "key": "Home",
+    "url": "/home/",
+    "order": 10,
+    "children": []
+  },
+  {
+    "title": "About",
+    "key": "About",
+    "url": "/about/",
+    "order": 20,
+    "children": []
+  },
+  {
+    "title": "For Investors",
+    "key": "For Investors",
+    "url": "/for-investors/",
+    "order": 30,
+    "children": []
+  },
+  {
+    "title": "For Founders",
+    "key": "For Founders",
+    "url": "/for-founders/",
+    "order": 40,
+    "children": []
+  },
+  {
+    "title": "Events & Recordings",
+    "key": "Events & Recordings",
+    "url": "/events-and-recordings/",
+    "order": 50,
+    "children": []
+  },
+  {
+    "title": "Angel Groups",
+    "key": "Angel Groups",
+    "url": "/angel-groups/",
+    "order": 60,
+    "children": []
+  }
+]
