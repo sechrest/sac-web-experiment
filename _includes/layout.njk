@@ -8,7 +8,16 @@
 <body>
   <nav>
   {% for item in navigation %}
-    <a href="{{ item.url }}">{{ item.title }}</a>
+    <div>
+      <a href="{{ item.url }}">{{ item.title }}</a>
+      {% if item.children.length %}
+        <div>
+          {% for child in item.children %}
+            <a href="{{ child.url }}">{{ child.title }}</a>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
   {% endfor %}
   </nav>
 
