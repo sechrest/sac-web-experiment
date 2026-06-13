@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: Home
-permalink: /about-page/
+permalink: /home-page/
 ---
 
 About SeattleAngel.com
