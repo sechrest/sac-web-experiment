@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: About
-permalink: /home-page/
+permalink: /about-page/
 ---
 
 Seattle Angel Ecosystem
